@@ -1,0 +1,28 @@
+{
+    "produtos": [
+        {
+            "nome": "Notebook Acer 8 GB",
+            "preco": "1985.32",
+            "id": 1
+        },
+        {
+            "nome": "iPhone X 32GB Petro",
+            "preco": "2500.00",
+            "id": 2
+        }
+    ],
+    "usuario": [
+        {
+            "id": 1,
+            "username": "iygorsilva22",
+            "email": "iygorsilva@gmail.com",
+            "yearold": 24
+        },
+        {
+            "id": 2,
+            "username": "silvinha66",
+            "email": "silvinha@hotmail.com",
+            "yearold": 26
+        }
+    ]
+}
